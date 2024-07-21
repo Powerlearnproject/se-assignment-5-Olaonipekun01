@@ -187,4 +187,3 @@ To integrate Git with VS Code for version control:
 2. **Make commits:** Stage changes by clicking the "+" icon, enter a commit message, and click the checkmark to commit.
 3. **Push changes to GitHub:** Set up a remote repository on GitHub, then use the command palette (`Ctrl + Shift + P`) to run "Git: Push" and push the changes.
 
-These steps and features make VS Code a powerful and versatile tool for coding and development.
